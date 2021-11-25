@@ -2,7 +2,7 @@
 Olá meu polvo e minha polva, sou a Bárbara e estudo Análise e Desenvolvimento de Sistemas.
 
 - 🌱 I’m currently learning AI/Machine Learning/ CyberOps and C# with .NET 
-- 👯 I’m looking to collaborate as an intern or maybe a Jr Developer with my services for a company/start Up.
+- 👯 I’m looking to collaborate as an Intern/Jr Developer with my services for a company/start Up.
 - 😄 Pronouns: Ela/Dela She/Her
 - ⚡ Fun fact: I'm a Phonographic Producer, learning to be a programmer. Music and tech are a strong passion combo. 
 
