@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Barbara and I'm an Analysis and System Development's student.
-Olá meu polvo e minha polva, sou a Bárbara e estudo Análise e Desenvolvimento de Sistemas.
 
-- 🌱 I’m currently learning AI/Machine Learning/ CyberOps and C# with .NET 
+- 🌱 I’m currently learning AI/Machine Learning.
 - 👯 I’m looking to collaborate as an Intern/Jr Developer with my services for a company/start Up.
 - 😄 Pronouns: Ela/Dela She/Her 
 <div style="display: inline_block"><br>
