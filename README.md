@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Barbara and I'm an Analysis and System Development's student.
 
-- 🌱 I’m currently learning AI/Machine Learning.
+- 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate as an Intern/Jr Developer with my services for a company/start Up.
 - 😄 Pronouns: Ela/Dela She/Her 
 <div style="display: inline_block"><br>
