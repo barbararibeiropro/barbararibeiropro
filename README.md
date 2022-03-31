@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Barbara and I'm an Analysis and System Development's student.
 
-- 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate as an Intern/Jr Developer with my services for a company/start Up.
+- 🌱 I’m currently learning Java at Capgemini Academy.
+- 👯 I believe in women in technology. 
 - 😄 Pronouns: Ela/Dela She/Her 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
