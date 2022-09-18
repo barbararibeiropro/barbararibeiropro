@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Barbara and I'm an Analysis and System Development's student.
+### Hi there 👋 I'm Barbara and I'm a Junior Data Engineer 
 
-- 🌱 I’m currently learning Java at Capgemini Academy.
 - 👯 I believe in women in technology. 
 - 😄 Pronouns: Ela/Dela She/Her 
 <div style="display: inline_block"><br>
