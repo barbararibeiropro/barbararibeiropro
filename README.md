@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Barbara and I'm a Junior Data Engineer 
+### Hi there 👋 I'm Barbara and I'm a Data Engineer 
 
 - 👯 I believe in women in technology. 
 - 😄 Pronouns: Ela/Dela She/Her 
